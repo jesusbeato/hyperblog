@@ -7,5 +7,6 @@ En este curso vemos de todo
 * Todos los comandos de Git
 * El flujo de trabajo
 * El verdadero amor por las buenas practicas
+* Creado por Jbeato93
 
 **Este es mi README**
